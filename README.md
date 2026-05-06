@@ -221,21 +221,6 @@ Generate insights such as:
 
 ---
 
-## ▶️ How to Run
-
-```bash
-# Clone repo
-git clone https://github.com/your-username/project-name.git
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run pipeline
-python main.py
-```
-
----
-
 ## 📌 Future Improvements
 
 * Real-time monitoring system
